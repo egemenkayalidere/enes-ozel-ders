@@ -1,3 +1,22 @@
-.test {
-    background-color: #FFAA00;
+/* .test {
+  background-color: #ffaa00;
+  height: 200px;
+  width: 300px;
+}
+
+.enes {
+  background-color: green;
+  width: 100px;
+  height: 200px;
+  width: 300px;
+  background-color: red;
+}
+
+#egemen {
+  background-color: black;
+} */
+
+div {
+  background-color: #ffaa00;
+  
 }
